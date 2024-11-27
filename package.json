@@ -2,6 +2,7 @@
   "name": "mlb-scorigami",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://radtket.github.io/mlb-scorigami",
   "dependencies": {
     "@babel/core": "^7.26.0",
     "d3": "^5.7.0",
@@ -17,20 +18,23 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
+    "eslint": "^7.31.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-prettier": "^3.4.0",
-    "eslint-plugin-react-hooks": "^1.7.0",
     "eslint-plugin-react": "^7.24.0",
-    "eslint": "^7.31.0",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "gh-pages": "^6.2.0",
     "prettier": "^2.3.2",
     "prisma": "^3.0.2"
   },
   "scripts": {
     "start": "DISABLE_ESLINT_PLUGIN=true react-scripts start",
-    "build": "DISABLE_ESLINT_PLUGIN=true react-scripts build"
+    "build": "DISABLE_ESLINT_PLUGIN=true react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "engines": {
     "node": "12.22.6"
