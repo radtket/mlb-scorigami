@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mlb-scorigami/static/css/main.3ae7e754.chunk.css",
+    "main.js": "/mlb-scorigami/static/js/main.930a7a3e.chunk.js",
+    "main.js.map": "/mlb-scorigami/static/js/main.930a7a3e.chunk.js.map",
+    "runtime-main.js": "/mlb-scorigami/static/js/runtime-main.332f701c.js",
+    "runtime-main.js.map": "/mlb-scorigami/static/js/runtime-main.332f701c.js.map",
+    "static/css/2.d27cfe6f.chunk.css": "/mlb-scorigami/static/css/2.d27cfe6f.chunk.css",
+    "static/js/2.f4a52598.chunk.js": "/mlb-scorigami/static/js/2.f4a52598.chunk.js",
+    "static/js/2.f4a52598.chunk.js.map": "/mlb-scorigami/static/js/2.f4a52598.chunk.js.map",
+    "index.html": "/mlb-scorigami/index.html",
+    "static/css/2.d27cfe6f.chunk.css.map": "/mlb-scorigami/static/css/2.d27cfe6f.chunk.css.map",
+    "static/css/main.3ae7e754.chunk.css.map": "/mlb-scorigami/static/css/main.3ae7e754.chunk.css.map",
+    "static/js/2.f4a52598.chunk.js.LICENSE.txt": "/mlb-scorigami/static/js/2.f4a52598.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.332f701c.js",
+    "static/css/2.d27cfe6f.chunk.css",
+    "static/js/2.f4a52598.chunk.js",
+    "static/css/main.3ae7e754.chunk.css",
+    "static/js/main.930a7a3e.chunk.js"
+  ]
+}

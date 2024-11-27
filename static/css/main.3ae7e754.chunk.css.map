@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.scss"],"names":[],"mappings":"AAKA,OAJC,QAAA,CACA,SAMA,CAHD,EAGC,qBAAA","file":"main.3ae7e754.chunk.css","sourcesContent":["body {\n\tmargin: 0;\n\tpadding: 0;\n}\n\n* {\n\tmargin: 0;\n\tpadding: 0;\n\tbox-sizing: border-box;\n}\n"]}
