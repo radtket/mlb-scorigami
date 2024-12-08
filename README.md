@@ -3,3 +3,5 @@ An interactive web application exploring unique and rare final scores (Scorigami
 
 **GitHub Repository:** [radtket/mlb-scorigami](https://github.com/radtket/mlb-scorigami)  
 **Live Demo:** [MLB Scorigami](https://radtket.github.io/mlb-scorigami/)
+
+![screely-1733671051768](https://github.com/user-attachments/assets/b5fb25e9-d8ed-4c6e-90d9-48eab7bd1530)
