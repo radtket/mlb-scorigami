@@ -5,7 +5,6 @@ import ChartNav from './ChartNav';
 import Grid from './Grid';
 import ScaleKey from './ScaleKey';
 import Tooltip from './Tooltip';
-import { MARGINS_LARGE, MARGINS_SMALL } from '../../utility/constants';
 import { StyledChart } from '../../styles';
 
 const Chart = ({
